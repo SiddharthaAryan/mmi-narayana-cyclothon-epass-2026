@@ -1,13 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="190" viewBox="0 0 720 190" role="img" aria-label="Narayana Health MMI logo">
-  <rect width="720" height="190" fill="none"/>
-  <g transform="translate(12,30)">
-    <path d="M22 42 H64 V4 C64 0 67 0 71 0 H90 C94 0 97 3 97 7 V42 H142 C150 42 156 49 156 57 V71 C156 79 150 86 142 86 H97 V126 C97 134 90 141 82 141 H69 C61 141 64 134 64 126 V86 H22 C14 86 7 79 7 71 V57 C7 49 14 42 22 42Z" fill="#1155A0"/>
-    <path d="M116 0 H135 C143 0 150 7 150 15 V42 H194 C202 42 209 49 209 57 V71 C209 79 202 86 194 86 H150 V126 C150 134 143 141 135 141 H116 C108 141 101 134 101 126 V86 H64 V42 H101 V15 C101 7 108 0 116 0Z" fill="#E31E2F" transform="translate(0,0)"/>
-    <path d="M0 96 H64 V142 H22 C10 142 0 132 0 120V96Z" fill="#E31E2F"/>
-    <path d="M101 96 H209 V120 C209 132 199 142 187 142H101V96Z" fill="#1155A0"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="258" viewBox="0 0 900 258" role="img" aria-label="Narayana Health MMI logo">
+  <rect width="900" height="258" fill="#ffffff"/>
+
+  <g transform="translate(18,18)">
+    <path d="M45 45V13C45 6 51 0 58 0h17c7 0 13 6 13 13v75H13C6 88 0 82 0 75V58c0-7 6-13 13-13h32Z" fill="#1155A0"/>
+    <path d="M105 45V13c0-7 6-13 13-13h17c7 0 13 6 13 13v32h32c7 0 13 6 13 13v17c0 7-6 13-13 13h-75V45Z" fill="#E31E2F"/>
+    <path d="M45 105H13c-7 0-13 6-13 13v17c0 7 6 13 13 13h32v32c0 7 6 13 13 13h17c7 0 13-6 13-13v-75H45Z" fill="#E31E2F"/>
+    <path d="M105 105h32l46 75c4 7-1 13-9 13h-56c-7 0-13-6-13-13v-75Z" fill="#1155A0"/>
   </g>
-  <text x="185" y="105" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" fill="#1155A0">Narayana</text>
-  <text x="185" y="166" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#E31E2F">Health</text>
-  <line x1="520" y1="45" x2="520" y2="165" stroke="#333333" stroke-width="3"/>
-  <text x="555" y="116" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" fill="#1155A0">MMI</text>
+
+  <text x="145" y="139" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700" letter-spacing="-2.8" fill="#1155A0">Narayana</text>
+  <text x="88" y="220" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.2" fill="#E31E2F">Health</text>
+
+  <line x1="590" y1="50" x2="590" y2="202" stroke="#303030" stroke-width="4"/>
+  <text x="640" y="139" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700" letter-spacing="1" fill="#1155A0">MMI</text>
 </svg>
